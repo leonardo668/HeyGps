@@ -18,6 +18,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".HeyCamara" android:label="@string/hey_camera"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity android:name=".HeyGaleria" android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+        </activity>
     </application>
 
 </manifest>

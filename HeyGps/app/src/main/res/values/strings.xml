@@ -5,4 +5,19 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="hey_camera">HeyCamara</string>
+
+    <string name="madera_carpinteria">Entra al mundo de la carpinteria, descubre los proyectos que liquidaran tu aburimiento.</string>
+    <string name="mecanica_automotriz">¿Aburrido que tu automovil no funcione bien?, entra aqui y veras que problemas puedes resolver en tu tiempo de aburrimiento.</string>
+    <string name="electronica">Si te gusta la electronica digital esto es para ti, disfruta de la infinidad de proyectos pequeños que puedes hacer con todo tipo de materiales electronicos.</string>
+    <string name="computacion">Si te apasiona la computacion aqui podras encontrar desde lo mas basico hasta lo mas complejo, desde formatear un pc hasta crear una aplicacion web.</string>
+    <string name="lectura"> Si te gusta la lectura sumergete en este mundo donde encontraras reseñas de libros y links de interes.</string>
+    <string name="jardineria">Lo mejor de la jardineria, cuidado de las plantas, preparacion del suelo entre otras tematicas lo encontraras aqui.</string>
+    <string name="title_madera_carpinteria">Madera y carpintería</string>
+    <string name="title_mecanica_automotriz">Mecanica automotriz</string>
+    <string name="title_electronica">Electronica</string>
+    <string name="title_computacion">computacion e informatica</string>
+    <string name="title_lectura">Lectura</string>
+    <string name="title_jardineria">Jardinería</string>
+
 </resources>
